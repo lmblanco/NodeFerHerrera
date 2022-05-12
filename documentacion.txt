@@ -1,0 +1,14 @@
+
+- uso de sockets: comunicacion real Cliente-Servidor
+Ejemplo: notificaciones en tiempo real.
+
+- FileSystem, Cargas simultaneas
+
+- Blocking / non-blocking I/O (importante)
+
+- Nodemon:
+ se usa solo para desarrollo porque esta escuchando cualquier cambio
+ para mostrarlo por consola
+
+
+
